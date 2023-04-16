@@ -1,1 +1,1 @@
-Compilador: MYSYS2 UCRT64 con GCC
+Compilador: MSYS2 UCRT64 con GCC
